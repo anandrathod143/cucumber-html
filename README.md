@@ -12,7 +12,7 @@ Cucumber-HTML is a cross-platform HTML formatter for all the Cucumber implementa
 
 The formatter generates HTML that conforms to the HTML5 specification, so you need a modern browser to see the results.
 
-## Generating PDF
+## Download PDF
 
 This formatter replaces Cucumber's old PDF formatter. You can easily turn a HTML report into a PDF with the excellent [wkhtmltopdf](https://wkhtmltopdf.org/):
 
